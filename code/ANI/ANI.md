@@ -16,9 +16,7 @@ library(ggpubr)
 
 ``` r
 ani_ident <- read.delim("ANIb_percentage_identity.tab", sep="\t", header=T)
-
 ani_cov <- read.delim("ANIb_alignment_coverage.tab", sep="\t", header=T)
-
 level_order <- read.delim("order.txt", sep="\t", header=F)
 ```
 
