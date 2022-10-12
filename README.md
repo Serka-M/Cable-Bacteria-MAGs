@@ -2,7 +2,7 @@
 
 **Description:**
 Repository for scripts and resources used for recovery of cable bacteria MAGs from sequenced samples. <br/>
-The project was performed in collaboration with researchers from the [Center for Electromicrobiology](https://bio.au.dk/forskning/forskningscentre/center-for-elektromikrobiologi-cem/) and is part of [Microflora Danica](https://www.en.bio.aau.dk/research/environmental-microbiology/research-projects/microflora-danica/).
+The project was performed in collaboration with researchers from the [Center for Electromicrobiology](https://bio.au.dk/forskning/forskningscentre/center-for-elektromikrobiologi-cem/) and is part of [Microflora Danica](https://www.en.engineering.aau.dk/Cases/Microflora-Danica/).
 
 **Quick links:**
 * Pre-print featuring the recovered cable bacteria MAGs can be accessed [here](https://www.biorxiv.org/).
