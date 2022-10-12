@@ -60,11 +60,5 @@ plot_anib <- ggarrange(plot_ident,
                        plot_cov, 
                        nrow=2, ncol=1, align = c("hv"), legend = "none", common.legend = FALSE)
 
-plot_anib
-```
-
-![](ANI_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
-
-``` r
-#ggsave(file="anib.pdf", width = 9, height = 17, useDingbats=FALSE)
+ggsave(file="anib.pdf", width = 9, height = 17, useDingbats=FALSE)
 ```
