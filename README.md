@@ -8,5 +8,5 @@ The project was performed in collaboration with researchers from the [Center for
 * Pre-print featuring the recovered cable bacteria MAGs can be accessed [here](https://www.biorxiv.org/content/10.1101/2022.10.26.513921v1).
 * Sequencing read datasets and the recovered high-quality/medium-quality MAGs are available at [ENA](https://www.ebi.ac.uk/ena/browser/view/PRJEB52550).
 * The first-ever closed genome of a cable bacteria (*Candidatus* Electronema aureum GS) is available at [ENA](https://www.ebi.ac.uk/ena/browser/view/ERS11967912).
-* The first-ever closed genome of a novel cable bacteria species capable of survival in a saline environement (*Candidatus* Electronema halotolerans) is available at [ENA](https://www.ebi.ac.uk/ena/submit/webin/report/analysisFiles/ERZ9795966).
+* The first-ever closed genome of a novel cable bacteria species capable of survival in a saline environement (*Candidatus* Electronema halotolerans) is available at [ENA](https://www.ebi.ac.uk/ena/browser/view/ERS11967999).
 <br/>
