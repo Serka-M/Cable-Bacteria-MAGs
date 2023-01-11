@@ -35,11 +35,3 @@ UQ
 GS
 ENR-cMAG
 F5
-Desulfomonile_tiedjei
-Desulfococcus_multivorans
-Desulfovibrio_vulgaris
-Desulfobulbus_alkaliphilus
-Desulfobulbus_elongatus
-Desulfobulbus_oligotrophicus
-Desulfobulbus_propionicus
-Desulfobulbus_oralis
